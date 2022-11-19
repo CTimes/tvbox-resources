@@ -1,8 +1,8 @@
 {
-    "wallpaper": "http://localhost:5705/pics",
+    "wallpaper": "http://192.168.138.1:5705/pics",
     "dr_count": 118,
     "mode": 0,
-    "spider": "http://localhost:5705/liveslib",
+    "spider": "http://192.168.138.1/:5705/pics",
     "drives": [
         {
             "name": "🦀9T(Adult)",
